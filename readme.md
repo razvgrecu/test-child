@@ -4,4 +4,4 @@
 - update fork and merge older stuff
 
 
-- some new content which altered
+- some new which changed
